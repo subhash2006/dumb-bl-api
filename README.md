@@ -1,10 +1,10 @@
 # Dumb Bot API
 
-<a href="https://www.npmjs.com/package/dumb-botlistjs/"><img src="https://img.shields.io/npm/v/dumb-botlistjs/.svg?maxAge=3600" alt="NPM version" /></a>
-<a href="https://www.npmjs.com/package/dumb-botlistjs/"><img src="https://img.shields.io/npm/dt/dumb-botlistjs/.svg?maxAge=3600" alt="NPM downloads" /></a>
+<a href="https://www.npmjs.com/package/dumb-botlistjs/"><img src="https://img.shields.io/npm/v/dumb-botlistjs.svg?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/dumb-botlistjs"><img src="https://img.shields.io/npm/dt/dumb-botlistjs.svg?maxAge=3600" alt="NPM downloads" /></a>
 
 
-<a href="https://nodei.co/npm/dumb-botlistjs/"><img src="https://nodei.co/npm/dumb-botlistjs?downloads=true&stars=true" alt="npm installnfo" /></a>
+<a href="https://nodei.co/npm/dumb-botlistjs"><img src="https://nodei.co/npm/dumb-botlistjs.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 
 To instal this package run `npm install dumb-botlistjs`
 Current version: 1.0.2
