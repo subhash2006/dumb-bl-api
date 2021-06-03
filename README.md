@@ -1,6 +1,7 @@
 # Dumb Bot API `v1.0.2`
-
 A package to interact Dumb Bot List API.
+
+
 <a href="https://www.npmjs.com/package/dumb-botlistjs/"><img src="https://img.shields.io/npm/v/dumb-botlistjs.svg?maxAge=3600" alt="NPM version" /></a>
 <a href="https://www.npmjs.com/package/dumb-botlistjs"><img src="https://img.shields.io/npm/dt/dumb-botlistjs.svg?maxAge=3600" alt="NPM downloads" /></a>
 
