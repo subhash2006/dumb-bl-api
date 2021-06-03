@@ -1,0 +1,30 @@
+{
+  "name": "dumb-botlist.js",
+  "version": "0.0.1",
+  "description": "Api for dumbbotlist.tk",
+  "main": "dumb-botlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhvitOP/dbl-api.git"
+  },
+  "keywords": [
+    "dbl-api",
+    "dbl",
+    "api",
+    "discord",
+    "dumbbotlist",
+    "bl",
+    "botlist"
+  ],
+  "author": "dhvit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhvitOP/dbl-api/issues"
+  },
+  "homepage": "https://github.com/dhvitOP/dbl-api#readme",
+  "dependencies": {
+  }
+}
