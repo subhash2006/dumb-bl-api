@@ -1,10 +1,10 @@
 {
   "name": "dumb-botlist.js",
   "version": "0.0.1",
-  "description": "Api for dumbbotlist.tk",
-  "main": "dumb-botlist.js",
+  "description": "A liblary for Dumb Bot API actions",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,11 +20,12 @@
     "botlist"
   ],
   "author": "dhvit",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dhvitOP/dbl-api/issues"
   },
   "homepage": "https://github.com/dhvitOP/dbl-api#readme",
   "dependencies": {
+   "node-fetch": "^2.6.1"
   }
 }
